@@ -12,16 +12,16 @@ Linear algebraic operations toolkit
   - gaussian elimination, LU, QR, Cholesky
 
 ## Resources and readings
-- [`Sparse Matrix`](https://en.wikipedia.org/wiki/Sparse_matrix)
+- [`Modern CMake`](https://cliutils.gitlab.io/modern-cmake/modern-cmake.pdf)
 - [`C++ <filesystem>`](https://en.cppreference.com/w/cpp/filesystem)
+- [`Git Handbook`](https://www.freecodecamp.org/news/learn-git-basics/)
+- [`Google Test Framework`](https://google.github.io/googletest/primer.html)
+- [`Git - the simple guide`](https://rogerdudler.github.io/git-guide/)
+
 - [`BLAS`](https://www.boost.org/doc/libs/1_82_0/libs/numeric/ublas/doc/index.html)
 - [`Numerical Linear Algebra`](http://mitran-lab.amath.unc.edu/courses/MATH662/biblio/AllaireKaber_2008_Book_NumericalLinearAlgebra.pdf)
-- [`Google Test Framework`](https://google.github.io/googletest/primer.html)
-- [`B-Tree`](https://en.wikipedia.org/wiki/B-tree)
 - [`C++ refresher`](https://mk8bk.github.io/chapters/ccpp/cpp.html)
 - [`CMake tutorial`](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-- [`Modern CMake`](https://cliutils.gitlab.io/modern-cmake/modern-cmake.pdf)
-- [`Git Handbook`](https://www.freecodecamp.org/news/learn-git-basics/)
 
 ## Environment
 - C++ standard 20
