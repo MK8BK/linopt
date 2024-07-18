@@ -24,7 +24,7 @@ Linear algebraic operations toolkit
 - [`Git Handbook`](https://www.freecodecamp.org/news/learn-git-basics/)
 
 ## Environment
-- C++ standard 17
+- C++ standard 20
 - cmake 3.22 minimum
-- clang++-15 minimum
+- clang++-18 minimum
 - git (whatever)
