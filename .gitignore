@@ -31,3 +31,20 @@
 *.out
 *.app
 TODO.md
+
+# added from https://github.com/github/gitignore/blob/main/CMake.gitignore
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+build
+tests/extern/
+*.cmake
