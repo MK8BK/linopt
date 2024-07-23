@@ -38,6 +38,7 @@ make test
   - gaussian elimination, LU, QR, Cholesky
 
 ## Resources and readings
+- [`CMake - the essential package`](https://youtu.be/UH6F6ypdYbw)
 - [`Modern CMake`](https://cliutils.gitlab.io/modern-cmake/)
 - [`C++ <filesystem>`](https://en.cppreference.com/w/cpp/filesystem)
 - [`Git Handbook`](https://www.freecodecamp.org/news/learn-git-basics/)
