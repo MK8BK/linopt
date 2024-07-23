@@ -5,7 +5,9 @@ Linear algebraic operations toolkit
 
 first install googletest as a git submodule
 ```bash
-git submodule add git@github.com:google/googletest.git extern/googletest
+rm -rf extern/googletest
+git submodule add --force git@github.com:google/googletest.git extern/googletest
+# only if updating this submodule
 git submodule 
 git submodule update --init --recursive 
 ```
