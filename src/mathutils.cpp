@@ -1,5 +1,5 @@
-#include "mathutils.h"
-
+#include <iostream>
+#include "mathutils.h" 
 
 unsigned long long mathutils::fact(int n){
   unsigned long long r{1};
@@ -9,5 +9,4 @@ unsigned long long mathutils::fact(int n){
   }
   return r;
 }
-
 
