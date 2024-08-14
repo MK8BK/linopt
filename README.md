@@ -56,6 +56,7 @@ C++ language refereshers:
 ## Resources and readings
 - [`Numerical Linear Algebra`](http://mitran-lab.amath.unc.edu/courses/MATH662/biblio/AllaireKaber_2008_Book_NumericalLinearAlgebra.pdf)
 - [`BLAS`](https://www.boost.org/doc/libs/1_82_0/libs/numeric/ublas/doc/index.html)
+- [`RandNLA Survey`](https://arxiv.org/pdf/2302.11474)
 
 ## Approximate Environment
 - C++ standard 20
