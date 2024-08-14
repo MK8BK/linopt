@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['readings_0',['Resources and readings',['../index.html#autotoc_md3',1,'']]],
-  ['resources_1',['Developement Guidelines and Resources',['../index.html#autotoc_md1',1,'']]],
-  ['resources_20and_20readings_2',['Resources and readings',['../index.html#autotoc_md3',1,'']]]
+  ['server_0',['Server',['../classServer.html',1,'']]],
+  ['specification_1',['Specification',['../index.html#autotoc_md2',1,'']]],
+  ['swap_2',['swap',['../classlinopt_1_1inmemory_1_1Matrix.html#a289fbf462243ba8cd5439c430d42ef6f',1,'linopt::inmemory::Matrix']]]
 ];
