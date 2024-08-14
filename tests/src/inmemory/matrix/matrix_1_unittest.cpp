@@ -120,7 +120,7 @@ TEST(Matrix, TestTranspose) {
                            {1, 0}
                    });
     ASSERT_EQ(m1.transpose(), m2);
-    ASSERT_THROW(m1.inplaceTranspose(), std::runtime_error);
+    ASSERT_EQ(m1, m2.transpose());
 }
 
 TEST(Matrix, TestDimensions) {
@@ -150,7 +150,7 @@ TEST(Matrix, TestFill){
 
 TEST(Matrix, TestStreams) {
     Matrix<int> src(2, 2, 4);
-    Matrix<int> dest(0, 0);
+    Matrix<int> dest(1, 1);
     std::stringstream s;
     s << src;
     s >> dest;

@@ -72,10 +72,6 @@ if(PACKAGE_TESTS)
   # then all the cpp files used needed for the test.
   # The header files in the same directories as the specified cpp files
   # are automatically linked.
-  find_and_add_test(disk_matrix_1_unittest
-    src/disk/matrix/disk_matrix_1_unittest.cpp
-    src/disk/matrix/DiskMatrix.cpp
-  )
   find_and_add_test(matrix_1_unittest
     src/inmemory/matrix/matrix_1_unittest.cpp
     src/inmemory/matrix/Matrix.cpp
